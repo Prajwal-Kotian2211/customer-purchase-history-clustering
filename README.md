@@ -1,4 +1,4 @@
-# customer-purchase-history-clustering
+# Customer-Purchase-History-Clustering
 
 This project performs customer segmentation using K-Means clustering on purchase history data.
 
